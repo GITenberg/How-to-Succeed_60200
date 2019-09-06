@@ -1,0 +1,25 @@
+_repo: How-to-Succeed_60200
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dunigan, Rosetta
+    gutenberg_agent_id: '50842'
+    url: http://www.gutenberg.org/2009/agents/50842
+description: ''
+gutenberg_issued: '2019-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60200'
+  lccn: '96100239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Conduct of life'
+- !lcsh 'Conduct of life'
+- !lcsh 'Success'
+- !lcc 'BJ'
+- GITenberg
+title: How to Succeed
+url: http://www.gutenberg.org/ebooks/60200
