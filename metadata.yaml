@@ -1,11 +1,16 @@
 _repo: How-to-Succeed_60200
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60200-h/images/cover.jpg
 creator:
   author:
     agent_name: Dunigan, Rosetta
     gutenberg_agent_id: '50842'
     url: http://www.gutenberg.org/2009/agents/50842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60200#How-to-Succeed
 gutenberg_issued: '2019-08-30'
 gutenberg_type: Text
 identifiers:
